@@ -14,4 +14,5 @@ if (is.na(number)) {
 
 cat(if (number %% 2 == 0) "even" else "odd", "\n")
 
+# print a message
 print("end of the script")
