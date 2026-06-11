@@ -1,5 +1,5 @@
-#!/usr/bin/env Rscript
 
+# Get arguments from the command line
 args <- commandArgs(trailingOnly = TRUE)
 
 if (length(args) != 1) {
