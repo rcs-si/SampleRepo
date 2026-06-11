@@ -4,7 +4,7 @@ This repository contains a few basic Python scripts and unit tests.
 
 ## Scripts
 
-The scripts live in `/home/runner/work/SampleRepo/SampleRepo/katgit/SampleRepo/scripts`:
+The scripts live in `./scripts`:
 
 - `add_numbers.py`: adds two numbers
 - `string_reverse.py`: reverses a string
@@ -12,7 +12,7 @@ The scripts live in `/home/runner/work/SampleRepo/SampleRepo/katgit/SampleRepo/s
 
 ## How to run the scripts
 
-From the repository root (`/home/runner/work/SampleRepo/SampleRepo/katgit/SampleRepo`):
+From the repository root, execute:
 
 ```bash
 python scripts/add_numbers.py 2 3
